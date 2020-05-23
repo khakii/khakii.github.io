@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a data scientist working at [MarketRedesign](https://marketredesign.com/).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sejongpark@gmail.com](mailto:sejongpark@gmail.com)
